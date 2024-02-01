@@ -1,4 +1,5 @@
 
-public class GitDemo2 {
+public class GitDemo2 
+{
 
 }
